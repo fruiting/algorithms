@@ -1,11 +1,12 @@
-package main
-
+// https://algocode.io/courses/yandex-algorithms/problem/sort-array-of-squares
 // Попытка #1
 // Двигал оба указателя при каждой итерации и записывал два числа за одну итерацию в результирующий массив
 // Нужно было сдвигать указатель, у которого квадрат числа был больше
 // Помимо этого не добавлял последний оставшийся элемент в результирующий массив
 
 ```
+package main
+
 // Time: O(n)
 // Space: O(n)
 func sortedSquares(nums []int) []int {
