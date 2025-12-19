@@ -16,3 +16,9 @@ https://algocode.io/courses/yandex-algorithms/problem/isomorphic-strings
 https://algocode.io/courses/yandex-algorithms/problem/build-a-route
 https://algocode.io/courses/yandex-algorithms/problem/validate-anagram
 https://algocode.io/courses/yandex-algorithms/problem/two-arrays-common-prefix
+https://algocode.io/courses/yandex-algorithms/problem/find-common-prefix
+https://algocode.io/courses/yandex-algorithms/problem/find-common-prefix-v2
+https://algocode.io/courses/yandex-algorithms/problem/h-index
+https://algocode.io/courses/yandex-algorithms/problem/find-anagrams
+// Тут просто ошибки синтаксиса
+https://algocode.io/courses/yandex-algorithms/problem/y-symmetry-strong
