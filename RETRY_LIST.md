@@ -22,3 +22,12 @@ https://algocode.io/courses/yandex-algorithms/problem/h-index
 https://algocode.io/courses/yandex-algorithms/problem/find-anagrams
 // Тут просто ошибки синтаксиса
 https://algocode.io/courses/yandex-algorithms/problem/y-symmetry-strong
+
+// Arrays and matrices
+// Это решил с первого раза и хорошо по асимптотике, но эталонное решение все равно оптимальнее
+https://algocode.io/courses/yandex-algorithms/problem/simple-calculator
+https://algocode.io/courses/yandex-algorithms/problem/subsequence-sum-of-k
+// Решил двумя способами, но пошло туговато, лучше записать
+https://algocode.io/courses/yandex-algorithms/problem/pivot-index
+https://algocode.io/courses/yandex-algorithms/problem/minimum-product
+https://algocode.io/courses/yandex-algorithms/problem/find-nearest-numbers
